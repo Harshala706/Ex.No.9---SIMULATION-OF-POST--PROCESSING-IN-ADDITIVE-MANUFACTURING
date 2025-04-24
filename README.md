@@ -1,6 +1,6 @@
 # Ex.No.  - SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
 
-### DATE: 
+### DATE: 24-04-2025
 
 ## AIM: 
 ### To simulate the post processing of 3d printed parts via support Removal, UV Curing & Heat Treatment.
@@ -46,9 +46,12 @@
 ![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
 
 ## Output:
+![Screenshot 2025-04-24 160335](https://github.com/user-attachments/assets/1e7271d7-0c58-4cb1-a49a-b50903dba9ab)
+![Screenshot 2025-04-24 160413](https://github.com/user-attachments/assets/b412766f-e06c-4db9-b4e9-38c3ccbf9ae2)
+![Screenshot 2025-04-24 160439](https://github.com/user-attachments/assets/e1656feb-0f8d-4e9a-8f57-1b7734f4ecd4)
 
-### Name:
-### Register Number:
+### Name: B Harshala Reddy
+### Register Number: 212224040050
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
